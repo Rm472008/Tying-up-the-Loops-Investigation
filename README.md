@@ -17,9 +17,9 @@ and topology of level curves.
 </p>
 
 <p align="center">
-  <img width="220" src="https://github.com/user-attachments/assets/87a75970-0cf2-4eb7-aa0f-09ac5806f753" alt="Parametric contour visualisation">
+  <img width="200" src="https://github.com/user-attachments/assets/87a75970-0cf2-4eb7-aa0f-09ac5806f753" alt="Parametric contour visualisation">
   &nbsp;
-  <img width="240" src="https://github.com/user-attachments/assets/a98f9657-9a4b-476f-b23c-21c210a0038b" alt="Parametric contour visualisation program">
+  <img width="220" src="https://github.com/user-attachments/assets/a98f9657-9a4b-476f-b23c-21c210a0038b" alt="Parametric contour visualisation program">
 </p>
 
 </td>
